@@ -1,0 +1,263 @@
+{
+    "teams": [
+      {
+        "abbreviation": "MCI",
+        "name": "Manchester City",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+        "league": "Premier League"
+      },
+      {
+        "abbreviation": "LIV",
+        "name": "Liverpool",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+        "league": "Premier League"
+      },
+      {
+        "abbreviation": "ARS",
+        "name": "Arsenal",
+        "logoUrl": "logo/Arsenal FC.png",
+        "league": "Premier League"
+      },
+      {
+        "abbreviation": "MUN",
+        "name": "Manchester United",
+        "logoUrl": "logo/Manchester United.png",
+        "league": "Premier League"
+      },
+      {
+        "abbreviation": "CHE",
+        "name": "Chelsea",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+        "league": "Premier League"
+      },
+      {
+        "abbreviation": "TOT",
+        "name": "Tottenham Hotspur",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png",
+        "league": "Premier League"
+      },
+      {
+        "abbreviation": "CRY",
+        "name": "Crystal Palace",
+        "logoUrl": "logo/Crystal Palace.png",
+        "league": "Premier League"
+      },
+      {
+        "abbreviation": "NEW",
+        "name": "Newcastle United",
+        "logoUrl": "logo/Newcastle United.png",
+        "league": "Premier League"
+      },
+      {
+        "abbreviation": "NEW",
+        "name": "Newcastle United",
+        "logoUrl": "logo/Newcastle United.png",
+        "league": "Premier League"
+      },
+      {
+        "abbreviation": "BAR",
+        "name": "Barcelona",
+        "logoUrl": "logo/FC Barcelona.png",
+        "league": "La Liga"
+      },
+      {
+        "abbreviation": "RMA",
+        "name": "Real Madrid",
+        "logoUrl": "logo/Real Madrid.png",
+        "league": "La Liga"
+      },
+      {
+        "abbreviation": "ATM",
+        "name": "Atlético Madrid",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Atletico_Madrid_2017_logo.svg/1200px-Atletico_Madrid_2017_logo.svg.png",
+        "league": "La Liga"
+      },
+      {
+        "abbreviation": "SEV",
+        "name": "Sevilla",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Sevilla_CF_200px.png/200px-Sevilla_CF_200px.png",
+        "league": "La Liga"
+      },
+      {
+        "abbreviation": "VAL",
+        "name": "Valencia",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Valencia_CF_home_logo.svg/1200px-Valencia_CF_home_logo.svg.png",
+        "league": "La Liga"
+      },
+      {
+        "abbreviation": "VIL",
+        "name": "Villarreal",
+        "logoUrl": "logo/Villarreal CF.png",
+        "league": "La Liga"
+      },
+      {
+        "abbreviation": "BET",
+        "name": "Real Betis",
+        "logoUrl": "logo/Real Betis Balompié.png",
+        "league": "La Liga"
+      },
+      {
+        "abbreviation": "ATH",
+        "name": "Athletic Bilbao",
+        "logoUrl": "logo/Athletic Bilbao.png",
+        "league": "La Liga"
+      },
+      {
+        "abbreviation": "RSO",
+        "name": "Real Sociedad",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
+        "league": "La Liga"
+      },
+      {
+        "abbreviation": "CEL",
+        "name": "Celta Vigo",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/RC_Celta_de_Vigo_logo.svg/1200px-RC_Celta_de_Vigo_logo.svg.png",
+        "league": "La Liga"
+      },
+      {
+        "abbreviation": "BAY",
+        "name": "Bayern Munich",
+        "logoUrl": "logo/Bayern Munich.png",
+        "league": "Bundesliga"
+      },
+      {
+        "abbreviation": "BVB",
+        "name": "Borussia Dortmund",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+        "league": "Bundesliga"
+      },
+      {
+        "abbreviation": "RBL",
+        "name": "RB Leipzig",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/1200px-RB_Leipzig_2014_logo.svg.png",
+        "league": "Bundesliga"
+      },
+      {
+        "abbreviation": "BMG",
+        "name": "Borussia Mönchengladbach",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/1200px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
+        "league": "Bundesliga"
+      },
+      {
+        "abbreviation": "B04",
+        "name": "Bayer Leverkusen",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+        "league": "Bundesliga"
+      },
+      {
+        "abbreviation": "S04",
+        "name": "Schalke 04",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/1200px-FC_Schalke_04_Logo.svg.png",
+        "league": "Bundesliga"
+      },
+      {
+        "abbreviation": "VFB",
+        "name": "VfB Stuttgart",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/VfB_Stuttgart_Logo.svg/1200px-VfB_Stuttgart_Logo.svg.png",
+        "league": "Bundesliga"
+      },
+      {
+        "abbreviation": "SGE",
+        "name": "Eintracht Frankfurt",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1200px-Eintracht_Frankfurt_Logo.svg.png",
+        "league": "Bundesliga"
+      },
+      {
+        "abbreviation": "SVW",
+        "name": "Werder Bremen",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
+        "league": "Bundesliga"
+      },
+      {
+        "abbreviation": "BSC",
+        "name": "Hertha BSC",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/1200px-Hertha_BSC_Logo_2012.svg.png",
+        "league": "Bundesliga"
+      },
+      {
+        "abbreviation": "PSG",
+        "name": "Paris Saint-Germain",
+        "logoUrl": "logo/Paris Saint-Germain.png",
+        "league": "Ligue 1"
+      },
+      {
+        "abbreviation": "OM",
+        "name": "Olympique de Marseille",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png",
+        "league": "Ligue 1"
+      },
+      {
+        "abbreviation": "OL",
+        "name": "Olympique Lyonnais",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Olympique_Lyonnais.svg/1200px-Olympique_Lyonnais.svg.png",
+        "league": "Ligue 1"
+      },
+      {
+        "abbreviation": "ASM",
+        "name": "AS Monaco",
+        "logoUrl": "logo/AS Monaco.png",
+        "league": "Ligue 1"
+      },
+      {
+        "abbreviation": "LOSC",
+        "name": "Lille OSC",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/LOSC_Lille_Crest.svg/1200px-LOSC_Lille_Crest.svg.png",
+        "league": "Ligue 1"
+      },
+      {
+        "abbreviation": "REN",
+        "name": "Stade Rennais",
+        "logoUrl": "logo/Stade Rennais FC.png",
+        "league": "Ligue 1"
+      },
+      {
+        "abbreviation": "BOR",
+        "name": "Girondins de Bordeaux",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/FC_Girondins_de_Bordeaux_logo.svg/1200px-FC_Girondins_de_Bordeaux_logo.svg.png",
+        "league": "Ligue 1"
+      },
+      {
+        "abbreviation": "SAINT",
+        "name": "AS Saint-Étienne",
+        "logoUrl": "https://cdn.bleacherreport.net/images/team_logos/328x328/as_saint_etienne.png",
+        "league": "Ligue 1"
+      },
+      {
+        "abbreviation": "NICE",
+        "name": "OGC Nice",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/OGC_Nice_logo.svg/1200px-OGC_Nice_logo.svg.png",
+        "league": "Ligue 1"
+      },
+      {
+        "abbreviation": "NAN",
+        "name": "FC Nantes",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/FC_Nantes_logo.svg/1200px-FC_Nantes_logo.svg.png",
+        "league": "Ligue 1"
+      },
+      {
+        "abbreviation": "CEL",
+        "name": "Celtic",
+        "logoUrl": "logo/Celtic FC.png",
+        "league": "Scottish Premier League"
+      },
+      {
+        "abbreviation": "RAN",
+        "name": "Rangers",
+        "logoUrl": "logo/Rangers FC.png",
+        "league": "Scottish Premier League"
+      },
+      {
+        "abbreviation": "ABE",
+        "name": "Aberdeen",
+        "logoUrl": "logo/Aberdeen FC.png",
+        "league": "Scottish Premier League"
+      },
+      {
+        "abbreviation": "HIB",
+        "name": "Hibernian",
+        "logoUrl": "logo/Hibernian FC.png",
+        "league": "Scottish Premier League"
+      }
+  ]
+}
+  
